@@ -54,6 +54,3 @@ As you can see, my `queries.sql` file probably had something like `SELECT * FROM
 4. List the names of directors along with the number of favorites that exist for all of the movies they've made, ordered by number of favorites descending.
 5. List the user name, director name and favorite count of all of the user/director combinations (based on the `users_movies` table).
 
-### Deliverables
-
-- A completed `queries.sql` that has SQL queries that accomplish the above four requests.
